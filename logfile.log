@@ -1,0 +1,524 @@
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-23T20:16:05.350Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-23T20:16:05.389Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-23T20:29:24.213Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-23T20:29:24.241Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-23T20:30:51.439Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-23T20:30:51.474Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-23T20:33:26.169Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-23T20:33:26.221Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-23T20:35:42.415Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-23T20:35:42.449Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-23T20:36:32.615Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-23T20:36:32.650Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-23T20:41:13.110Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-23T20:41:13.148Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-23T20:49:52.864Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-23T20:49:52.896Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-23T20:50:16.108Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-23T20:50:16.134Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-23T20:51:04.574Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-23T20:51:04.602Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-23T21:18:19.378Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-23T21:18:19.461Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-23T21:18:31.636Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-23T21:18:31.671Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T17:28:04.204Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T17:28:04.295Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T17:31:50.373Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T17:31:50.428Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T17:32:48.918Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T17:32:48.967Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T17:38:40.793Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T17:38:40.845Z"}
+{"message":"mess is not defined","stack":"ReferenceError: mess is not defined\n    at validateApplication (C:\\Users\\acer\\Documents\\maraki\\models\\application.js:151:28)\n    at C:\\Users\\acer\\Documents\\maraki\\routes\\applications.js:41:18\n    at newFn (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at admin (C:\\Users\\acer\\Documents\\maraki\\middleware\\admin.js:4:2)\n    at newFn (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at auth (C:\\Users\\acer\\Documents\\maraki\\middleware\\auth.js:11:3)\n    at newFn (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at expressInit (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\middleware\\init.js:40:5)\n    at newFn (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\layer.js:95:5)","level":"error","timestamp":"2022-07-26T17:41:15.225Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T17:42:07.287Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T17:42:07.416Z"}
+{"message":"Application validation failed: image: www.image.com is not a valid URL, transcript: www.transcript.com is not a valid URL, passport: www.passport.com is not a valid URL","stack":"ValidationError: Application validation failed: image: www.image.com is not a valid URL, transcript: www.transcript.com is not a valid URL, passport: www.passport.com is not a valid URL\n    at model.Document.invalidate (C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongoose\\lib\\document.js:2760:32)\n    at C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongoose\\lib\\document.js:2552:17\n    at C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongoose\\lib\\schematype.js:1273:9\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","errors":{"image":{"properties":{"message":"www.image.com is not a valid URL","type":"user defined","path":"image","value":"www.image.com"},"kind":"user defined","path":"image","value":"www.image.com"},"transcript":{"properties":{"message":"www.transcript.com is not a valid URL","type":"user defined","path":"transcript","value":"www.transcript.com"},"kind":"user defined","path":"transcript","value":"www.transcript.com"},"passport":{"properties":{"message":"www.passport.com is not a valid URL","type":"user defined","path":"passport","value":"www.passport.com"},"kind":"user defined","path":"passport","value":"www.passport.com"}},"_message":"Application validation failed","level":"error","timestamp":"2022-07-26T17:42:28.591Z"}
+{"message":"jwt is not defined","stack":"ReferenceError: jwt is not defined\n    at model.appSchema.methods.generateAuthToken (C:\\Users\\acer\\Documents\\maraki\\models\\application.js:123:16)\n    at C:\\Users\\acer\\Documents\\maraki\\routes\\applications.js:55:20","level":"error","timestamp":"2022-07-26T17:43:13.414Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T17:43:56.091Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T17:43:56.147Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T17:47:31.310Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T17:47:31.357Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T17:51:30.224Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T17:51:30.296Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T17:51:59.191Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T17:51:59.247Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T17:57:15.088Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T17:57:15.170Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T18:00:17.287Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T18:00:17.347Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T18:00:17.462Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T18:41:23.838Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T18:50:09.699Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T18:50:09.768Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T18:50:12.814Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T18:54:08.604Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T18:54:08.766Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T18:56:37.269Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T18:56:37.321Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T18:56:38.176Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T18:59:28.690Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T18:59:28.738Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T18:59:28.976Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T18:59:47.132Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T18:59:47.175Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T18:59:51.968Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T19:00:48.152Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T19:00:48.206Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T19:00:48.241Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T19:03:12.891Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T19:03:12.974Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T19:03:13.790Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T19:07:44.218Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T19:07:44.269Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T19:07:44.293Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T19:10:35.867Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T19:10:35.934Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T19:10:36.528Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T19:11:34.941Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T19:11:35.022Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T19:11:35.329Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T19:11:42.211Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T19:11:42.262Z"}
+{"message":"request is not defined","stack":"ReferenceError: request is not defined\n    at C:\\Users\\acer\\Documents\\maraki\\routes\\messages.js:40:13\n    at newFn (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at auth (C:\\Users\\acer\\Documents\\maraki\\middleware\\auth.js:11:3)\n    at newFn (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at expressInit (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\middleware\\init.js:40:5)\n    at newFn (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at query (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\middleware\\query.js:45:5)","level":"error","timestamp":"2022-07-26T19:11:44.115Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T19:11:44.858Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T19:12:05.479Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T19:12:05.549Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T19:12:05.786Z"}
+{"message":"console.lo is not a function","stack":"TypeError: console.lo is not a function\n    at C:\\Users\\acer\\Documents\\maraki\\routes\\messages.js:40:10\n    at newFn (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at auth (C:\\Users\\acer\\Documents\\maraki\\middleware\\auth.js:11:3)\n    at newFn (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at expressInit (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\middleware\\init.js:40:5)\n    at newFn (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at query (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\middleware\\query.js:45:5)","level":"error","timestamp":"2022-07-26T19:12:08.482Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T19:12:27.724Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T19:12:27.795Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T19:12:28.281Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T19:13:29.668Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T19:13:29.719Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T19:13:30.585Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T19:39:51.638Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T19:39:51.687Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T19:39:51.889Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T19:52:38.007Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T19:52:38.064Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T19:52:38.491Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T19:53:28.676Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T19:53:28.733Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T19:53:29.341Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T19:55:50.093Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T19:55:50.149Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T19:55:50.912Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T19:56:18.751Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T19:56:18.834Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T19:56:21.515Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T19:57:34.813Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T19:57:34.868Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T19:57:35.573Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T19:58:15.287Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T19:58:15.371Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T19:58:15.464Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T20:02:08.127Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T20:02:08.196Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T20:02:09.396Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T20:02:25.402Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T20:02:25.459Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T20:02:25.781Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T20:02:47.473Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T20:02:47.552Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T20:02:48.122Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T20:05:19.708Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T20:05:19.794Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T20:05:19.855Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T20:07:54.408Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T20:07:54.454Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T20:07:54.901Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T20:08:10.775Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T20:08:10.871Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T20:08:13.214Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T20:56:01.837Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T20:56:01.905Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T20:56:13.121Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T20:56:13.252Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T20:56:27.642Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T20:56:27.742Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T20:57:30.943Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T20:57:30.998Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T20:57:43.731Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T20:59:53.443Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T20:59:53.509Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T20:59:54.210Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T21:00:45.605Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T21:00:45.656Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T21:00:46.161Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T21:02:52.273Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T21:02:52.318Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T21:02:54.352Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T21:04:52.571Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T21:04:52.623Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T21:04:53.073Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T21:10:52.902Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T21:10:52.966Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T21:10:55.221Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-26T21:28:10.280Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-26T21:28:10.406Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-26T21:28:13.142Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T15:55:57.102Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T15:55:57.150Z"}
+{"message":"user is not defined","stack":"ReferenceError: user is not defined\n    at C:\\Users\\acer\\Documents\\maraki\\routes\\auth.js:17:64","level":"error","timestamp":"2022-07-27T16:07:52.369Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T16:09:02.272Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T16:09:02.325Z"}
+{"message":"user is not defined","stack":"ReferenceError: user is not defined\n    at C:\\Users\\acer\\Documents\\maraki\\routes\\auth.js:21:16","level":"error","timestamp":"2022-07-27T16:09:07.783Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T16:09:27.927Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T16:09:27.987Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T16:13:16.733Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T16:13:54.939Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T16:13:55.073Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T16:14:17.476Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T16:14:17.530Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T16:14:28.852Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T16:14:28.904Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T16:15:37.859Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T16:15:37.938Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T16:16:32.364Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T16:16:40.214Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T16:19:14.342Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T16:19:14.417Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T16:19:14.496Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T16:19:16.830Z"}
+{"message":"Cannot read properties of undefined (reading 'toString')","stack":"TypeError: Cannot read properties of undefined (reading 'toString')\n    at message (C:\\Users\\acer\\Documents\\maraki\\realtime\\messageSocket.js:46:24)\n    at async newMessage (C:\\Users\\acer\\Documents\\maraki\\startup\\connection.js:48:16)\n    at async C:\\Users\\acer\\Documents\\maraki\\routes\\messages.js:46:15","level":"error","timestamp":"2022-07-27T16:19:18.647Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T16:19:42.507Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T16:19:42.567Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T16:19:43.258Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T16:19:44.082Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T16:20:26.766Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T16:21:44.900Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T17:19:26.519Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T17:19:26.575Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:19:26.722Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:19:26.846Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T17:19:40.187Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T17:19:40.271Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:19:41.350Z"}
+{"message":"Cannot read properties of null (reading 'sender')","stack":"TypeError: Cannot read properties of null (reading 'sender')\n    at C:\\Users\\acer\\Documents\\maraki\\routes\\messages.js:54:84","level":"error","timestamp":"2022-07-27T17:20:13.216Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T17:29:16.090Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T17:29:16.140Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:29:16.790Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T17:29:50.845Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T17:29:50.907Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:29:51.678Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T17:30:21.727Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T17:30:21.796Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:30:23.081Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T17:31:17.870Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T17:31:17.926Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:31:18.317Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T17:31:25.938Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T17:31:25.996Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:31:27.671Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T17:31:47.413Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T17:31:47.465Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:31:48.585Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:39:51.793Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:39:57.178Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:40:00.506Z"}
+{"message":"Converting circular structure to JSON\n    --> starting at object with constructor 'Namespace'\n    |     property 'server' -> object with constructor 'Server'\n    |     property 'nsps' -> object with constructor 'Object'\n    --- property '/' closes the circle","stack":"TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'Namespace'\n    |     property 'server' -> object with constructor 'Server'\n    |     property 'nsps' -> object with constructor 'Object'\n    --- property '/' closes the circle\n    at JSON.stringify (<anonymous>)\n    at stringify (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\response.js:1123:12)\n    at ServerResponse.json (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\response.js:260:14)\n    at ServerResponse.send (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\response.js:158:21)\n    at C:\\Users\\acer\\Documents\\maraki\\routes\\messages.js:56:13","level":"error","timestamp":"2022-07-27T17:44:31.917Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T17:48:15.927Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T17:48:15.982Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:48:16.206Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:48:16.344Z"}
+{"message":"Converting circular structure to JSON\n    --> starting at object with constructor 'Namespace'\n    |     property 'server' -> object with constructor 'Server'\n    |     property 'nsps' -> object with constructor 'Object'\n    --- property '/' closes the circle","stack":"TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'Namespace'\n    |     property 'server' -> object with constructor 'Server'\n    |     property 'nsps' -> object with constructor 'Object'\n    --- property '/' closes the circle\n    at JSON.stringify (<anonymous>)\n    at stringify (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\response.js:1123:12)\n    at ServerResponse.json (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\response.js:260:14)\n    at ServerResponse.send (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\response.js:158:21)\n    at C:\\Users\\acer\\Documents\\maraki\\routes\\messages.js:56:13","level":"error","timestamp":"2022-07-27T17:48:52.256Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T17:50:14.119Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T17:50:14.194Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:50:14.667Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:50:16.247Z"}
+{"message":"mes is not defined","stack":"ReferenceError: mes is not defined\n    at C:\\Users\\acer\\Documents\\maraki\\routes\\messages.js:53:17","level":"error","timestamp":"2022-07-27T17:50:17.034Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T17:50:31.270Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T17:50:31.379Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:50:32.397Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:50:32.868Z"}
+{"message":"Converting circular structure to JSON\n    --> starting at object with constructor 'Namespace'\n    |     property 'server' -> object with constructor 'Server'\n    |     property 'nsps' -> object with constructor 'Object'\n    --- property '/' closes the circle","stack":"TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'Namespace'\n    |     property 'server' -> object with constructor 'Server'\n    |     property 'nsps' -> object with constructor 'Object'\n    --- property '/' closes the circle\n    at JSON.stringify (<anonymous>)\n    at stringify (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\response.js:1123:12)\n    at ServerResponse.json (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\response.js:260:14)\n    at ServerResponse.send (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\response.js:158:21)\n    at C:\\Users\\acer\\Documents\\maraki\\routes\\messages.js:56:13","level":"error","timestamp":"2022-07-27T17:50:33.902Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T17:50:57.074Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T17:50:57.153Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:50:58.956Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:50:59.107Z"}
+{"message":"Converting circular structure to JSON\n    --> starting at object with constructor 'Namespace'\n    |     property 'server' -> object with constructor 'Server'\n    |     property 'nsps' -> object with constructor 'Object'\n    --- property '/' closes the circle","stack":"TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'Namespace'\n    |     property 'server' -> object with constructor 'Server'\n    |     property 'nsps' -> object with constructor 'Object'\n    --- property '/' closes the circle\n    at JSON.stringify (<anonymous>)\n    at stringify (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\response.js:1123:12)\n    at ServerResponse.json (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\response.js:260:14)\n    at ServerResponse.send (C:\\Users\\acer\\Documents\\maraki\\node_modules\\express\\lib\\response.js:158:21)\n    at C:\\Users\\acer\\Documents\\maraki\\routes\\messages.js:57:13","level":"error","timestamp":"2022-07-27T17:51:00.306Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T17:52:39.019Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T17:52:39.085Z"}
+{"message":"viewed is not a function","stack":"TypeError: viewed is not a function\n    at viewedMess (C:\\Users\\acer\\Documents\\maraki\\startup\\connection.js:54:20)\n    at C:\\Users\\acer\\Documents\\maraki\\routes\\messages.js:55:22","level":"error","timestamp":"2022-07-27T17:52:40.986Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:52:43.550Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:52:43.618Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T17:55:19.103Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T17:55:19.166Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:55:19.637Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:55:21.333Z"}
+{"message":"viewed is not a function","stack":"TypeError: viewed is not a function\n    at viewedMess (C:\\Users\\acer\\Documents\\maraki\\startup\\connection.js:54:20)\n    at C:\\Users\\acer\\Documents\\maraki\\routes\\messages.js:55:22","level":"error","timestamp":"2022-07-27T17:55:22.104Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T17:55:41.417Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T17:55:41.465Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:55:42.595Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T17:55:42.783Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T18:00:41.808Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T18:00:41.863Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T18:00:43.013Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T18:00:45.281Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T18:02:34.773Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T18:02:34.816Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T18:02:36.088Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T18:02:36.517Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T18:03:04.849Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T18:03:04.912Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T18:03:05.259Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T18:03:06.056Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T18:03:22.883Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T18:03:22.952Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T18:03:24.960Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T18:03:25.176Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T18:08:50.133Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T18:08:50.181Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T18:08:51.392Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T18:08:51.501Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T18:09:06.391Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T18:09:06.451Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T18:09:07.737Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T18:09:07.803Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T18:09:30.224Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T18:09:30.282Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T18:09:31.406Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T18:09:31.967Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T20:25:36.836Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T20:25:36.938Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T20:49:32.329Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T20:49:32.373Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T20:49:32.875Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T20:49:34.099Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T20:50:44.943Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T20:50:44.988Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T20:50:45.922Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T20:50:45.974Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T20:51:31.888Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T20:51:31.945Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T20:51:32.937Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T20:52:25.888Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T20:52:26.018Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T20:52:26.404Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T20:52:52.578Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T20:52:52.685Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T20:52:54.152Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T20:53:10.114Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T20:53:10.196Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T20:53:11.013Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T20:53:12.900Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T21:09:33.677Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T21:10:31.084Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T21:10:31.136Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T21:10:31.470Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T21:10:44.347Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T21:13:16.223Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T21:13:16.271Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T21:13:18.363Z"}
+{"message":"recipientId is not defined","stack":"ReferenceError: recipientId is not defined\n    at notification (C:\\Users\\acer\\Documents\\maraki\\realtime\\notificationSocket.js:27:49)\n    at async newNotification (C:\\Users\\acer\\Documents\\maraki\\startup\\connection.js:38:9)\n    at async C:\\Users\\acer\\Documents\\maraki\\routes\\notifications.js:51:20","level":"error","timestamp":"2022-07-27T21:13:18.708Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T21:14:08.661Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T21:14:08.737Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T21:14:08.894Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T21:16:20.159Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T21:16:20.217Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T21:16:21.460Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T21:17:15.570Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T21:17:15.642Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T21:17:15.719Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-27T21:22:05.900Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-27T21:22:05.961Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-27T21:22:06.935Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T12:38:51.235Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T12:38:51.283Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T12:39:01.515Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T12:39:01.560Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T12:39:04.508Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T12:59:55.816Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T12:59:55.886Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T12:59:56.430Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T13:00:18.070Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T13:00:18.129Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T13:00:22.519Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T13:18:32.888Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T13:18:32.926Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T13:18:37.773Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T13:19:39.893Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T13:19:39.938Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T13:19:40.770Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T13:20:49.393Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T13:20:49.440Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T13:20:50.124Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T13:23:39.489Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T13:23:39.560Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T13:23:39.720Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T13:23:50.558Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T13:23:50.600Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T13:23:55.490Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T13:25:00.237Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T13:25:00.311Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T13:25:00.600Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T13:25:57.533Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T13:25:57.589Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T13:25:57.799Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T13:26:40.446Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T13:26:40.508Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T13:26:41.153Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T13:27:03.671Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T13:27:03.728Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T13:27:06.310Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T13:37:04.823Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T13:37:04.915Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T13:37:05.058Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T13:59:40.142Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T13:59:40.184Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T13:59:41.695Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T13:59:59.141Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T13:59:59.189Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T13:59:59.893Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T14:00:15.382Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T14:00:15.472Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T14:00:15.687Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T14:03:24.711Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T14:03:24.813Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T14:03:25.894Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T14:04:09.869Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T14:04:09.914Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T14:04:10.411Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T14:04:27.965Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T14:04:28.017Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T14:04:28.053Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T14:04:51.625Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T14:04:51.686Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T14:04:52.470Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T17:18:03.722Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T17:41:12.457Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T17:41:12.527Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T17:41:14.459Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T17:41:30.737Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T17:41:30.820Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T17:41:31.078Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T17:43:06.656Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T17:43:06.768Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T17:43:08.208Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T17:44:06.329Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T17:44:06.383Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T17:44:07.235Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T18:02:58.368Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T18:02:58.436Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T18:02:58.470Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T18:03:13.942Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T18:03:14.075Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T18:03:14.129Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T18:03:24.490Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T18:03:24.558Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T18:03:24.621Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T19:21:45.397Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T19:21:45.461Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T19:21:45.618Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T19:22:26.366Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T19:22:26.446Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T19:22:26.779Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T19:39:16.946Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T19:39:17.001Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T19:39:19.470Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T19:40:34.005Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T19:40:34.063Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T19:40:34.107Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T19:51:00.530Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T19:51:00.699Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T19:51:01.013Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T19:53:34.922Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T19:53:34.973Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T19:53:35.004Z"}
+{"message":"ENOENT: no such file or directory, open 'C:\\Users\\acer\\Documents\\maraki\\uploads\\2022-07-28T19-54-01.275Z1i00001.jpg'","stack":"Error: ENOENT: no such file or directory, open 'C:\\Users\\acer\\Documents\\maraki\\uploads\\2022-07-28T19-54-01.275Z1i00001.jpg'","errno":-4058,"code":"ENOENT","syscall":"open","path":"C:\\Users\\acer\\Documents\\maraki\\uploads\\2022-07-28T19-54-01.275Z1i00001.jpg","storageErrors":[],"level":"error","timestamp":"2022-07-28T19:54:01.286Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T19:57:57.536Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T19:57:57.769Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T19:57:58.214Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T20:08:12.279Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T20:08:12.353Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T20:08:12.520Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T20:08:27.350Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T20:08:27.411Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T20:08:28.479Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T20:08:56.308Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T20:08:56.371Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T20:08:56.697Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T20:09:34.001Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T20:09:34.070Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T20:09:34.698Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-28T20:11:39.412Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-28T20:11:39.473Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-28T20:11:41.615Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T10:18:56.222Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T16:13:00.385Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T16:46:01.848Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T16:46:01.989Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T16:46:02.074Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T16:55:36.490Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T16:55:36.536Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T16:55:36.895Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T16:59:29.428Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T16:59:29.488Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T16:59:30.611Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T17:00:10.067Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T17:00:10.135Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T17:00:11.880Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T17:15:22.290Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T17:15:22.390Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T17:15:24.439Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T17:15:40.460Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T17:15:40.554Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T17:15:41.103Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T17:18:12.387Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T17:18:12.468Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T17:18:14.865Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T17:18:23.923Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T17:18:23.974Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T17:18:24.513Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T17:26:28.819Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T17:26:28.877Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T17:26:30.707Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T17:28:08.807Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T17:28:08.897Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T17:28:11.459Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T17:33:26.616Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T17:33:26.736Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T17:33:28.653Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T17:36:53.708Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T17:36:53.807Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T17:36:53.854Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T17:37:33.369Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T17:37:33.432Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T17:37:33.639Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T17:37:54.738Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T17:37:54.794Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T17:37:55.272Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T17:38:56.799Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T17:38:56.875Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T17:38:56.952Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T17:39:56.781Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T17:39:56.852Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T17:39:58.143Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T17:40:24.378Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T17:40:24.465Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T17:40:27.334Z"}
+{"message":"Schema hasn't been registered for model \"status\".\nUse mongoose.model(name, schema)","stack":"MissingSchemaError: Schema hasn't been registered for model \"status\".\nUse mongoose.model(name, schema)\n    at NativeConnection.Connection.model (C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongoose\\lib\\connection.js:1264:11)\n    at getModelsMapForPopulate (C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongoose\\lib\\helpers\\populate\\getModelsMapForPopulate.js:300:59)\n    at populate (C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongoose\\lib\\model.js:4598:21)\n    at _populate (C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongoose\\lib\\model.js:4569:5)\n    at C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongoose\\lib\\model.js:4546:5\n    at promiseOrCallback (C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:10:12)\n    at Mongoose._promiseOrCallback (C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongoose\\lib\\index.js:1149:10)\n    at Function.Model.populate (C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongoose\\lib\\model.js:4544:23)\n    at cb (C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongoose\\lib\\query.js:2047:17)\n    at C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongodb\\lib\\utils.js:704:5\n    at handleCallback (C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongodb\\lib\\utils.js:109:55)\n    at C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongodb\\lib\\cursor.js:850:66\n    at C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongodb\\lib\\utils.js:704:5\n    at C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongodb\\lib\\cursor.js:935:9\n    at Cursor._endSession (C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongodb\\lib\\core\\cursor.js:404:7)\n    at C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongodb\\lib\\cursor.js:933:12\n    at maybePromise (C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongodb\\lib\\utils.js:692:3)\n    at Cursor.close (C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongodb\\lib\\cursor.js:926:12)\n    at C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongodb\\lib\\cursor.js:850:27\n    at handleCallback (C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongodb\\lib\\core\\cursor.js:32:5)\n    at C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongodb\\lib\\core\\cursor.js:690:38\n    at _setCursorNotifiedImpl (C:\\Users\\acer\\Documents\\maraki\\node_modules\\mongodb\\lib\\core\\cursor.js:703:10)","level":"error","timestamp":"2022-07-29T17:41:58.987Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T17:44:37.938Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T17:44:37.990Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T17:44:38.426Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T18:07:54.538Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T18:07:54.591Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T18:07:56.093Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T18:08:32.196Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T18:08:32.256Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T18:08:32.426Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-07-29T18:31:12.476Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-07-29T18:31:12.544Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T18:31:12.597Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-29T20:03:10.163Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-30T16:22:06.106Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-30T19:00:01.579Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-31T08:15:34.749Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-31T16:10:19.993Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-31T16:10:22.908Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-31T17:09:31.463Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-07-31T19:17:39.837Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-08-02T10:17:31.650Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-08-02T16:13:48.685Z"}
+{"level":"info","message":"Connected from server!","timestamp":"2022-08-02T17:58:26.825Z"}
