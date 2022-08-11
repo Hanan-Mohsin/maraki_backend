@@ -1,4 +1,5 @@
 {
 	"jwtPrivateKey": "maraki_jwtPrivateKey",
-	"db": "maraki_db"
+	"db": "maraki_db",
+	"url": "maraki_url"
 }

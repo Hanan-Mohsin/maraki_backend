@@ -522,3 +522,5 @@
 {"level":"info","message":"Connected from server!","timestamp":"2022-08-02T10:17:31.650Z"}
 {"level":"info","message":"Connected from server!","timestamp":"2022-08-02T16:13:48.685Z"}
 {"level":"info","message":"Connected from server!","timestamp":"2022-08-02T17:58:26.825Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2022-08-11T15:07:40.783Z"}
+{"level":"info","message":"Connected to the database...","timestamp":"2022-08-11T15:07:40.855Z"}
