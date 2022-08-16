@@ -23,7 +23,7 @@ const {birthdayScheduler,embassyScheduler} = require('./startup/scheduler');
 const job = nodeCron.schedule("30 16 * * *",birthdayScheduler);
 nodeCron.schedule("30 16 * * *",embassyScheduler);
 
-const port = 5000;
+const port = process.env.PORT || 5000;
 const serv = server.listen(port, () => winston.info(`Listening on port ${port}...`));
 
 module.exports.server = serv;
