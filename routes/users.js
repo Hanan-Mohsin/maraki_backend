@@ -35,7 +35,8 @@ router.post('/',async (req,res) => {
 	user = new User(req.body);
 	const salt = await bcrypt.genSalt(10);
 	user.password = await bcrypt.hash(user.password,salt);
-	
+	user.isAgent = true;
+	user.isAdmin = true;
 	await user.save();
 	const token = user.generateAuthToken();
 	res.header('access-control-expose-headers','x-auth-token');
