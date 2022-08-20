@@ -26,7 +26,7 @@ router.get('/branch/:bran', [auth,agent],async(req, res) => {
 
 // Get application of the student
 router.get('/me', auth, async(req, res) => {
-	const app = await Application.findOne({_id: req.app._id, isDeleted: false}).select('-password -isDeleted')
+	const app = await Application.findOne({_id: req.user._id, isDeleted: false}).select('-password -isDeleted')
 	.populate('branch','name')
 	.populate('progresses','content status date');;
 
